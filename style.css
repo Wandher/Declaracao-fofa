@@ -1,0 +1,35 @@
+body{
+    background: rgb(124, 6, 6);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.painel{
+    width: 500px;
+    height: 500px;
+    background: #fff;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#botao-sim{
+    height: 40px;
+    width: 60px;
+    background: red;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    color: #fff;
+    margin-left: -65px;
+}
+
+#botao-nao{
+    position: absolute;
+    height: 40px;
+    width: 60px;
+    background: red;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    color: #fff;
+    margin-left: 10px;
+}
